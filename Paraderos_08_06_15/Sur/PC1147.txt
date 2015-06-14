@@ -1,0 +1,2 @@
+['PC1147 (09:28)', 'Inicio', 'Servicio 405', 'Proximo', 'Menos de 5 min. Viene a 437 mts.', 'Siguiente', 'Menos de 5 min. Viene a 657 mts.', 'Servicio 405C', 'Proximo', 'Menos de 5 min. Viene a 48 mts.', 'Siguiente', 'Menos de 5 min. Viene a 358 mts.']
+['PC1147 (09:31)', 'Inicio', 'Servicio 405', 'Proximo', 'Entre 06 Y 10 min.  Viene a 2507 mts.', 'Siguiente', 'Entre 07 Y 11 min.  Viene a 2637 mts.', 'Servicio 405C', 'Proximo', 'Menos de 5 min. Viene a 18 mts.', 'Siguiente', 'Menos de 5 min. Viene a 58 mts.']

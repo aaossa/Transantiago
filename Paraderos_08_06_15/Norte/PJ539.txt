@@ -1,0 +1,3 @@
+['PJ539 (09:25)', 'Inicio', 'Servicio I09', 'Proximo', 'Menos de 5 min. Viene a 1645 mts.', 'Servicio I09C', 'Fuera de horario de operacion para este paradero', 'Servicio I09E', 'Fuera de horario de operacion para este paradero']
+['PJ539 (09:26)', 'Inicio', 'Servicio I09', 'Proximo', 'Menos de 5 min. Viene a 975 mts.', 'Siguiente', 'Entre 05 Y 09 min.  Viene a 3015 mts.', 'Servicio I09C', 'Fuera de horario de operacion para este paradero', 'Servicio I09E', 'Fuera de horario de operacion para este paradero']
+['PJ539 (09:30)', 'Inicio', 'Servicio I09', 'Proximo', 'Menos de 5 min. Viene a 2195 mts.', 'Servicio I09C', 'Fuera de horario de operacion para este paradero', 'Servicio I09E', 'Fuera de horario de operacion para este paradero']
