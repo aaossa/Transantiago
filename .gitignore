@@ -1,5 +1,13 @@
 # Ignore pycache
+
 __pycache__/
 
+
+
 # Ignore txt
+
 *.txt
+
+# Ignore sample folders
+Paraderos_08_06_15/
+Paraderos_09_06_15/
