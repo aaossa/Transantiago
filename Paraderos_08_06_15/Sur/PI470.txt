@@ -1,2 +1,0 @@
-['PI470 (09:27)', 'Inicio', 'Servicio 405', 'Proximo', 'Menos de 5 min. Viene a 1672 mts.', 'Siguiente', 'Entre 19 Y 29 min.  Viene a 9172 mts.', 'Servicio 413C', 'Proximo', 'Menos de 5 min. Viene a 54 mts.', 'Siguiente', 'Entre 03 Y 07 min.  Viene a 3344 mts.']
-['PI470 (09:30)', 'Inicio', 'Servicio 405', 'Proximo', 'Menos de 5 min. Viene a 652 mts.', 'Siguiente', 'Entre 18 Y 28 min.  Viene a 8642 mts.', 'Servicio 413C', 'Proximo', 'Menos de 5 min. Viene a 2184 mts.']

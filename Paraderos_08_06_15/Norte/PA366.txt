@@ -1,3 +1,0 @@
-['PA366 (09:25)', 'Inicio', 'Servicio 404', 'Proximo', 'Menos de 5 min. Viene a 1032 mts.', 'Siguiente', 'Entre 03 Y 07 min.  Viene a 1412 mts.', 'Servicio 424', 'Proximo', 'Menos de 5 min. Viene a 1069 mts.', 'Siguiente', 'Menos de 5 min. Viene a 1419 mts.']
-['PA366 (09:26)', 'Inicio', 'Servicio 404', 'Proximo', 'Menos de 5 min. Viene a 1012 mts.', 'Siguiente', 'Entre 03 Y 07 min.  Viene a 1412 mts.', 'Servicio 424', 'Proximo', 'Menos de 5 min. Viene a 1019 mts.', 'Siguiente', 'Menos de 5 min. Viene a 1419 mts.']
-['PA366 (09:29)', 'Inicio', 'Servicio 404', 'Proximo', 'Menos de 5 min. Viene a 732 mts.', 'Siguiente', 'Menos de 5 min. Viene a 932 mts.', 'Servicio 424', 'Proximo', 'Menos de 5 min. Viene a 739 mts.', 'Siguiente', 'Menos de 5 min. Viene a 809 mts.']
