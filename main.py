@@ -78,7 +78,7 @@ for j in Paraderos_NORTE:
 		pass
 """
 
-
+"""
 def Recopilar_datos():
     for i in Paraderos_NORTE:
         data = sendRequest(i)
@@ -107,3 +107,25 @@ while time.localtime().tm_hour <= 9 and (time.localtime().tm_min < 25):
     last_min = time.localtime().tm_min
 
 print("FIN de programa")
+"""
+
+class Data:
+
+    def __init__(self, data):
+        self.data = data
+        self.__save__()
+
+    def __save__(self):
+        data = {}
+        def line():
+            for i in self.data:
+                yield i
+        while True:
+            if "Servicio" in next(line):
+                data[d[9:]] = []
+                print(d[9:])
+
+
+
+data = sendRequest("PH214")
+Data(data)
